@@ -1,1 +1,1 @@
-# auth-node-passport-local
+# auth-node-passport
