@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indranugraha/auth-node-pasport-local.git"
+    "url": "git+https://github.com/indranugraha/auth-node-pasport.git"
   },
   "author": "Indra Nugraha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/indranugraha/auth-node-pasport-local/issues"
+    "url": "https://github.com/indranugraha/auth-node-pasport/issues"
   },
-  "homepage": "https://github.com/indranugraha/auth-node-pasport-local#readme",
+  "homepage": "https://github.com/indranugraha/auth-node-pasport#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.14.1",
